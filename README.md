@@ -8,7 +8,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Anika?style=for-the-badge">
 <p>
 
-简体中文 | [English](https://github.com/thomaswcy/Danny/blob/master/README_EN.md)
+简体中文 | [English](https://github.com/thomaswcy/Anika/blob/master/README_EN.md)
 
 ## Coming Soon!
 
