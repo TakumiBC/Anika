@@ -14,7 +14,7 @@
 4. 未满 18 岁及尚无独立经济收入来源者不建议捐赠本项目。
 
 ## 微信收款码
-![微信收款码](https://github.com/thomaswcy/Annie/blob/master/img/wechat.jpg?raw=true)
+![微信收款码](https://github.com/thomaswcy/Anika/blob/master/img/wechat.jpg?raw=true)
 
 ## 支付宝收款码
 ![支付宝收款码](https://github.com/thomaswcy/Anika/blob/master/img/alipay.jpg?raw=true)
