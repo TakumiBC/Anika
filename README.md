@@ -1,3 +1,5 @@
+<p align="center">
+<img src="https://github.com/thomaswcy/Anika/blob/master/img/anika.png?raw=true">
 <h1 align="center">Anika</h1>
 
 <p align="center">
@@ -10,9 +12,13 @@
 
 简体中文 | [English](https://github.com/thomaswcy/Anika/blob/master/README_EN.md)
 
-## Coming Soon!
+## 下载
 
-In Progress...
+请查看 [Releases](https://github.com/thomaswcy/Anika/releases)
+
+## 教程
+
+请查看 [教程文档](https://github.com/thomaswcy/Anika/blob/master/TUTORIAL.md)
 
 ## 技术支持 & 讨论群组
 
