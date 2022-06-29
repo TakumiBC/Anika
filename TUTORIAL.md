@@ -28,7 +28,7 @@ cd %PROGRAMFILES%\Anika && python3 install.py
 
 打开扩展 ContextSearch 的设置页面，解压 ContextSearchOptions.json.zip 后导入 ContextSearchOptions.json
 
-![](https://github.com/thomaswcy/Anika/blob/master/img/ContextSearchConfig.png?raw=true)
+![](https://github.com/thomaswcy/Anika/blob/master/img/ContextSearchConfig.jpg?raw=true)
 
 # 恭喜你，配置完成了！
 
