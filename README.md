@@ -27,4 +27,7 @@
 如果遇到bug，各种软件使用方面问题，以及对我们的建议，欢迎在 [Issues](https://github.com/thomaswcy/Anika/issues) 区域留言 
 
 ## 捐赠
+
 请查看我们有关 [捐赠本项目](https://github.com/thomaswcy/Anika/blob/master/FUNDING.md) 的文档
+
+捐赠后，请保留截图，然后添加微信：thomaswucy，统一拉入捐赠用户交流群 
