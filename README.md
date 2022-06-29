@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/thomaswcy/Anika/blob/master/img/anika.png?raw=true">
+<img src="https://github.com/thomaswcy/Anika/blob/master/img/anika.png?raw=true" width = "512" height = "512">
 <h1 align="center">Anika</h1>
 
 <p align="center">
