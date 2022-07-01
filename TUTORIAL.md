@@ -17,7 +17,7 @@
 输入 Windows + R 键，再输入 cmd 并回车，然后在 cmd 中输入以下代码：
 
 ```
-cd %PROGRAMFILES%\Anika && python3 install.py
+cd %PROGRAMFILES%\Anika\python && .\python ../install.py
 ```
 
 等待执行完成后，重启浏览器
