@@ -20,7 +20,7 @@
 
 打开 浏览器
 
-打开扩展 ContextSearch 的设置页面（[Chrome](chrome-extension://ddippghibegbgpjcaaijbacfhjjeafjh/options.html#engines) | [Firefox](moz-extension://0d773462-cc12-4763-918a-3494a590e769/options.html#engines)），点击左下角的 Import，在出来的 文件资源管理器 下方的 “文件名” 中输入 `%PROGRAMFILES%\Anika\002 - ontextsearch_webext.json` 并回车
+打开扩展 ContextSearch 的设置页面（Chrome: `chrome-extension://ddippghibegbgpjcaaijbacfhjjeafjh/options.html#engines` | Firefox: `moz-extension://0d773462-cc12-4763-918a-3494a590e769/options.html#engines`），点击左下角的 Import，在出来的 文件资源管理器 下方的 “文件名” 中输入 `%PROGRAMFILES%\Anika\002 - ontextsearch_webext.json` 并回车
 
 ![](https://github.com/thomaswcy/Anika/blob/master/img/ContextSearchConfig.jpg?raw=true)
 
