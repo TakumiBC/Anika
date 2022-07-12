@@ -6,27 +6,21 @@
 
 在 [Releases](https://github.com/thomaswcy/Anika/releases) 下载最新版的 Anika，并安装
 
-# 2. 安装浏览器
+# 2. 安装拓展程序
 
-下载 [RC Firefox](https://www.runningcheese.com/firefox) 或 [RC Chrome](https://www.runningcheese.com/chrome)
+下载 ContextSearch web-ext
 
-**(只有 RC Firefox 或 RC Chrome 才能使用 Anika！)**
+[Chrome](https://chrome.google.com/webstore/detail/contextsearch-web-ext/ddippghibegbgpjcaaijbacfhjjeafjh) | [Firefox](https://addons.mozilla.org/firefox/addon/contextsearch-web-ext/)
 
 # 3. 配置 Messenger App
 
-输入 Windows + R 键，再输入 cmd 并回车，然后在 cmd 中输入以下代码：
-
-```
-cd %PROGRAMFILES%\Anika\python && .\python ../install.py
-```
-
-等待执行完成后，重启浏览器
+打开 文件资源管理器，在上方的地址栏输入：`%PROGRAMFILES%\Anika\`，然后点击 001 - setup.bat，等待黑色窗口消失，随后重启浏览器
 
 # 4. 配置浏览器
 
-打开 RC Firefox 或者 RC Chrome
+打开 浏览器
 
-打开扩展 ContextSearch 的设置页面，解压 ContextSearchOptions.json.zip 后导入 ContextSearchOptions.json
+打开扩展 ContextSearch 的设置页面（[Chrome](chrome-extension://ddippghibegbgpjcaaijbacfhjjeafjh/options.html#engines) | [Firefox](moz-extension://0d773462-cc12-4763-918a-3494a590e769/options.html#engines)），点击左下角的 Import，在出来的 文件资源管理器 下方的 “文件名” 中输入 `%PROGRAMFILES%\Anika\002 - ontextsearch_webext.json` 并回车
 
 ![](https://github.com/thomaswcy/Anika/blob/master/img/ContextSearchConfig.jpg?raw=true)
 
@@ -36,6 +30,6 @@ cd %PROGRAMFILES%\Anika\python && .\python ../install.py
 
 # 使用方法
 
-直接在 RC Firefox 或 RC Chrome 中打开网页并右键，找到下列图片中的选项并点击需要的那一个即可（国内网站请选择 lux，其他网站请选择 yt-dlp）
+直接在 浏览器 中打开网页并右键，找到下列图片中的选项并点击需要的那一个即可（国内网站请选择 you-get，其他网站请选择 yt-dlp）
 
 ![](https://github.com/thomaswcy/Anika/blob/master/img/usage.png?raw=true)
