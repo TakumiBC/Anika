@@ -10,6 +10,9 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Anika?style=for-the-badge">
 <p>
 
+## 这句话由GithubUser xingyujie添加:这是我和你走过的第一个项目，我把新版本开源了。路过的人可以尝试新版本，基于WEB版本在线下载器  
+[NEW新版本传送门](https://github.com/xingyujie/anika)  
+没想到，一切来得太突然，我们都删了，我也不会去联系你，你能看到，那么我就放心了（doge）  
 简体中文 | [English](https://github.com/thomaswcy/Anika/blob/master/README_EN.md)
 
 ## 下载
